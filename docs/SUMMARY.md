@@ -9,7 +9,7 @@
 * [Binário](the-basics/binary.md)
 * [Memória](the-basics/memory.md)
 * [Registradores](the-basics/registers.md)
-* [Modos de endereçamento](the-basics/endereçamento.md)
+* [Modos de endereçamento](the-basics/addressing.md)
 * [Little-endian](the-basics/endian.md)
 * [Glossário](the-basics/glossary.md)
 
@@ -21,9 +21,9 @@
 * [Salto para sub-rotinas](programming/subroutine.md)
 
 ## Coleção de valores
-* [Tabelas e indexação](coleções/indexação.md)
-* [A pilha](coleções/pilha.md)
-* [Copiando dados](coleções/movimentos.md)
+* [Tabelas e indexação](collections/indexing.md)
+* [A pilha](collections/stack.md)
+* [Copiando dados](collections/moves.md)
 
 ## Flags e registradores do processador
 * [Flags do processador](processor/flags.md)
