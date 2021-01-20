@@ -1,11 +1,11 @@
-# Readme
-This is the Git repository of my "Assembly for the SNES" 65c816 ASM tutorial, [hosted at SMW Central](https://www.smwcentral.net/?p=section&a=details&id=14268). I have open sourced it so that the ROM hacking community may improve upon it. 
+# Leia-me
+Este é o repositório Git do meu tutorial de ASM 65c816 "Assembly for the SNES", [hospedado em SMW Central](https://www.smwcentral.net/?p=section&a=details&id=14268). Decidir abrir o código para que a comunidade ROMhacking possa melhorá-lo. 
 
-This online, open-source version of the tutorial can be accessed here: https://ersanio.gitbook.io/assembly-for-the-snes/
+Esta versão do tutorial online de código aberto pode ser acessada aqui https://ersanio.gitbook.io/assembly-for-the-snes/
 
-# Code of conduct
-Please open a pull request in the following situations:
+# Código de conduta
+Por favor, abra um "pull request" nas seguintes situações:
 
-* In case of errors and you'd like to fix it
-* In case of improvements upon the chapters
-* In case of newly written chapters
+* Em caso de erros e você gostaria de corrigi-los
+* Em casos de melhorias nos capítulos
+* Em caso de capítulos recém-escritos
